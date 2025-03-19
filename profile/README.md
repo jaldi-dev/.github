@@ -7,3 +7,5 @@ In the coming weeks and months, we’ll be sharing something we’ve been quietl
 We’re excited for what’s ahead and look forward to sharing more soon.
 
 Stay tuned. 🚀
+
+![alt text](image.png)
