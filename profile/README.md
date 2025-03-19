@@ -8,4 +8,4 @@ We’re excited for what’s ahead and look forward to sharing more soon.
 
 Stay tuned. 🚀
 
-![alt text](image.png)
+![alt text](image-1.png)
