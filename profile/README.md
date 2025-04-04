@@ -1,4 +1,4 @@
-# Welcome to Endia 
+# Welcome to Orchestral 
 
 At Endia, we are exploring the fundamental building blocks of AI, driven by curiosity and a passion for innovation.
 
