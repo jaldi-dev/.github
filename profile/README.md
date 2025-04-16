@@ -1,11 +1,9 @@
-# Welcome to LazyLabs
+# Welcome to Adiamo
 
-At LazyLabs, we are exploring the fundamental building blocks of AI, driven by curiosity and a passion for innovation.
+At Adiamo, we are exploring the fundamental building blocks of AI, driven by curiosity and a passion for innovation.
 
-In the coming weeks and months, we’ll be sharing something we’ve been quietly working on - designed to push the boundaries of performance and flexibility in machine learning.
+In the coming weeks we’ll be sharing something we’ve been quietly working on - designed to push the boundaries of performance and flexibility in machine learning.
 
 We’re excited for what’s ahead and look forward to sharing more soon.
 
 Stay tuned. 🚀
-
-![alt text](image-1.png)
