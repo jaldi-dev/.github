@@ -1,4 +1,4 @@
-# Welcome to Adiamo
+# Welcome to Jaldi
 
 We are exploring the fundamental building blocks of AI, driven by curiosity and a passion for innovation.
 
