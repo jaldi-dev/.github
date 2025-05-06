@@ -1,5 +1,5 @@
 # Good day fellow earthlings!
 
-Welcome to JALDI, an open-source collective exploring AI and scientific computing with Mojo. We're currently building a JIT-accelerated Algorithmic Differentiation engine inspired by JAX and PyTorch.
+JALDI's mission is to deliver fast Algorithmic Differentiation in Mojo. Inspired by the best of PyTorch, JAX & NumPy. 
 
 Join us in making advanced computing more accessible!
