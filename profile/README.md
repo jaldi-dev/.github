@@ -1,9 +1,5 @@
-# Welcome to Jaldi
+# Good day fellow earthlings!
 
-We are exploring the fundamental building blocks of AI, driven by curiosity and a passion for innovation.
+Welcome to JALDI, an open-source collective exploring AI and scientific computing with Mojo. We're currently building a JIT-accelerated Algorithmic Differentiation engine inspired by JAX and PyTorch.
 
-In the coming weeks we’ll be sharing something we’ve been quietly working on - designed to push the boundaries of performance and flexibility in machine learning.
-
-We’re excited for what’s ahead and look forward to sharing more soon.
-
-Stay tuned. 🚀
+Join us in making advanced computing more accessible!
