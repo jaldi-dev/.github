@@ -1,5 +1,5 @@
 # Good day fellow earthlings!
 
-JALDI's mission is to deliver fast Algorithmic Differentiation in Mojo. Inspired by the best of PyTorch, JAX & NumPy. 
+SciMo's mission is to deliver a Scientific Computing framework with full AutoDiff support in the Mojo 🔥 prgramming language. Inspired by the best of PyTorch, JAX & NumPy. 
 
-Join us in making advanced computing more accessible!
+Contributions are heartly welcome!
